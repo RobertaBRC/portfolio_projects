@@ -3,7 +3,7 @@
 Covid-19 data as of 08/02/2022
 Source: https://ourworldindata.org/covid-deaths
 
-Techniquies used: 
+techniques used: 
 - Joins
 - Subqueries
 - Case 
