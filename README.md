@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 
 This repository includes the SQL queries and Python code used in my portfolio project website.
 
