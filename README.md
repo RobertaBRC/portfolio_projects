@@ -1,5 +1,5 @@
 # PortfolioProjects
 
-This repository will contain SQL queries and Python codes used in my Data Analyst portfolio project website:
+This repository includes the SQL queries and Python code used in my portfolio project website :arrow_down:
 
 https://robertabrc.github.io/robertas_portfolio/
